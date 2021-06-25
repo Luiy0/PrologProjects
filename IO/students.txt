@@ -1,4 +1,0 @@
-student(1111, 'John Doe', [90,95,87]).
-student(4567, 'Jane Doe', [80,85,73]).
-student(8765, 'Dennis Ritchie', [100,100,98]).
-
